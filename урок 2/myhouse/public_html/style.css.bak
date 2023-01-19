@@ -1,0 +1,7 @@
+h1 {text-align:center; color:#0000FF; font-family:Verdana: font-size:20pt}
+h2 {text-align:right; color:#800000; font-family:Verdana: font-size:16pt}
+h3 {text-align:left; color:#0000FF; font-family:Verdana: font-size:14pt}
+p {text-align:justify; color:#191970; font-family:Arial: font-size:12pt; font-weight:bolder}
+ol {list-style-type:upper-roman}
+ul {list-style-image:url(spisok_1.gif)}
+body {background-image:url(fon9.jpg)}
